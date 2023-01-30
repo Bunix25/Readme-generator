@@ -6,7 +6,7 @@ const util = require("util");
 const generateMarkdown = require("./utils/generateMarkdown");
 const licenseBadge = require("./utils/licenseBadge").licenseBadge;
 const questions = require("./utils/questions").questions;
-//Allows for use of async await
+
 const writeFileAsync = util.promisify(fs.writeFile);
 
 // function to initialize program and create README file
