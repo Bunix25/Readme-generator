@@ -40,7 +40,9 @@
 ---
 ## Visuals:
 
-  ![]()
+![screenshot 1](images/readme-generator-1.png)
+![screenshot 2](images/readme-generator-2.png)
+![screenshot 2](images/readme-generator-3.png)
 
 ---
 
