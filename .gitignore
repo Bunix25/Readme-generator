@@ -2,4 +2,3 @@ node_modules
 .DS_Store/
 .vscode
 created-README.md 
-package-lock.json
