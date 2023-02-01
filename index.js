@@ -9,7 +9,7 @@ const questions = require("./utils/questions").questions;
 
 const writeFileAsync = util.promisify(fs.writeFile);
 
-// function to create README file
+// function to README file
 async function init() {
   try {
     const answers = await inquirer.prompt(questions);
